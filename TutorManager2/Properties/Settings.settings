@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TutorManager2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="data35ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=C:\projects\TutorManager\TutorManager2\data35.sdf&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;Microsoft.SqlServerCe.Client.3.5&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=C:\projects\TutorManager\TutorManager2\data35.sdf</Value>
+    </Setting>
+    <Setting Name="FederalTaxPercent" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">17.5</Value>
+    </Setting>
+    <Setting Name="StateTaxPercent" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="BackupLocation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\akatakritos\My Dropbox\Jobs\EBL\Taxes\data35.sdf</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
